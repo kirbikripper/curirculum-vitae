@@ -1,64 +1,68 @@
-# Бражников Илья Андреевич (22 года)
+# Brazhnikov Illia (23 years)
 
-## Образование 👨‍🎓:
-- Школа 2006-2015
-- Электротехнический колледж (разработка ПО) 2015-2019
-- Запорожский Национальный Технический Университет (Инженерия ПО) 2019-2022
+## Education 👨‍🎓:
+- School 2006-2015
+- Zaporizhzhya Electrotechnical College (software engeneering) 2015-2019
+- Zaporizhzhya National Technical University (software engeneering) 2019-2022
 
-## Опыт работы 💼:
-- **SolidSolution** (Full Stack Developer) июнь 2018 - октябрь 2018
-- **DevIT** - (Full Stack Developer) октябрь 2018 - апрель 2021
-- **Mine Finance Group** - (Full Stack Developer) апрель 2021 - настоящее время
+## Work expirience 💼:
+- **SolidSolution** (Full Stack Developer) June 2018 - October 2018
+- **DevIT** - (Full Stack Developer) October 2018 - April 2021
+- **Mine Finance Group** - (Full Stack Developer) April 2021 - March 2022
+- **MagneticOne** - (Laravel Developer) April 2022 -present
 
-## Инструменты 🛠:
+## Tools 🛠:
 
 ### BackEnd:
-- PHP 5.6 (6 месяцев)
-- PHP 7.x (3 года)
-- Laravel (3 года)
-- WordPress (6 месяцев)
-- Drupal 7 (6 месяцев)
-- Express (2 месяца)
+- PHP 5.6 (6 months)
+- PHP 7.x (3 years)
+- PHP 8.x (1 years)
+- Laravel (4 years)
+- WordPress (6 months)
+- Drupal 7 (6 months)
+- Express (2 months)
 - MySQL
 - Redis
 - Docker
 
 ### FrontEnd:
-- EsmaScript5+ (3 года)
-- React (1 год)
-- Angular (3 месяца)
-- Vue (6 месяцев)
-- jQuery (3 года)
-- TypeScript (1 год)
+- EsmaScript5+ (3 years)
+- React (1 year)
+- Angular (3 months)
+- Vue (6 months)
+- jQuery (3 years)
+- TypeScript (1 year)
 - webpack
 - gulp
 
-### Общее:
+### Other:
 - GIT
 - Docker
-- Linux (Debian-подобные)
+- Linux (Debian-like)
 - Swagger
+- Apiato
 - Postman
 
-## Работа с API ☁️:
+## Work with API ☁️:
 - AWS
-- Google (maps, firebase)
-- Платежные системы
+- Google (maps, firebase, oauth)
+- Payment systems
 
-## Языки 🏁:
-- Русский (носитель)
-- Украинский (носитель)
-- Английский (базовый разговорный, чтение/написание документации)
+## Languages 🏁:
+- Ucrainian (native speaker)
+- Russian (native speaker)
+- English (intermediate)
+- Polish (pre-intermediate)
 
-## Дополнительная информация 🗒:
-- ответственный
-- креативный
-- коммуникабельный
-- внимательный к деталям
-- открыт к новым знаниям и навыкам
-- наличие лидерских и управленческих навыков
+## Additional Information 🗒:
+- responsible
+- creative
+- sociable
+- attentive to the details
+- open to new knowledge and skills
+- having leadership and management skills
 
-## Примеры кода ⌨️:
+## Code examples ⌨️:
 
 ### TypeScript:
 ```TypeScript
