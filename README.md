@@ -16,22 +16,21 @@
 ### BackEnd:
 - PHP 5.6 (6 months)
 - PHP 7.x (3 years)
-- PHP 8.x (1 years)
-- Laravel (4 years)
+- PHP 8.x (2 years)
+- Laravel (5 years)
 - WordPress (6 months)
 - Drupal 7 (6 months)
 - Express (2 months)
 - MySQL
 - Redis
-- Docker
 
 ### FrontEnd:
 - EsmaScript5+ (3 years)
-- React (1 year)
+- React (2 years)
 - Angular (3 months)
 - Vue (6 months)
 - jQuery (3 years)
-- TypeScript (1 year)
+- TypeScript (2 years)
 - webpack
 - gulp
 
